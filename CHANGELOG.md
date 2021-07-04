@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-## [v3.0.2.6] (Release date: 17.07.2017)
+## [v3.0.2.7] (Release date: 17.07.2017)
 
 ## [v3.0.1.2] (Release date: 07.07.2017)
 
